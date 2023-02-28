@@ -3,7 +3,7 @@
 Deep Neural Network for YouTube video recommendations/ P.Covington, J.Adams, E.Sargin.  
 Final project by Assaf Caftory and Guy Zepko
 
-![](https://www.dropbox.com/s/xtydv227jo1az9d/costume_model.png?dl=0)
+![](https://github.com/assafcaf/YouTubeFinal/blob/main/costume_model.png?raw=true)
 
 This repository includes our report of the paper: Deep Neural Network for YouTube video recommendations/ P.Covington, J.Adams, E.Sargin  (Anchor Paper).
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
