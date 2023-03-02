@@ -15,6 +15,7 @@ We combined the hyperparameter tuning and results discussed in the same section 
 
 
 ## Running the notebooks
+the notebook is ready to run as it is. containig hyper-paramets tunig and example of one model and its prediction for a certain target
 * GPU is mendatory for realistic runtime
 * The data is downloaded from dropbox in the first run of the notebook and store it under "data" folder
 * Dataset objects are created for each "window_size" parameter (can take several minutes per  dataset) and stored as "data/data_<window_size>.csv" for shortened future runtime
